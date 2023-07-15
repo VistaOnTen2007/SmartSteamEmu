@@ -11,3 +11,6 @@ Based on decompiled source of SSELauncher contained in [SmartSteamEmu **1.4.3** 
 * DLC list clearing
 * LifeSupport Plugin (may not work on some games).
 * Now comes with SSE 1.4.3 by default.
+
+## Note
+* Some of these stuff and plugins doesn't have it's source code posted here. The purposes of this one is just to provide the (reuploaded) latest release of SSE combined with plugins and other stuff.
